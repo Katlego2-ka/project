@@ -18,8 +18,7 @@ A short description of my project. (Describe the importance and what it does.)
 2. Open your web browser and navigate to `http://localhost:3000`.
 3. Follow the on-screen instructions to use the project.
 
-![Screenshot](/screenshots/screenshot.png)
-*Screenshot of the project in action.*
+
 
 ## Credits
 - Author 1: [John Doe](https://github.com/johndoe)
